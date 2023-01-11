@@ -11,3 +11,6 @@ More text games coming soon:
 
 ## Developer 
 Develped by https://github.com/StevenSSparks
+
+# Privacy Policy
+Our games are simple stand alone text adventures. You can not be more private than an application that is not connected, or gathers any data. 
