@@ -20,4 +20,4 @@ They don't
 * Gather data or personal details. We just want to play retro-style text games
 * Do anyhing more than provide fun
 
-You can not be more private than an application that is not connected, gathers no data and is family anf fun friendly. 
+You can not be more private than an application that is not connected, gathers no data and is family and fun friendly. 
