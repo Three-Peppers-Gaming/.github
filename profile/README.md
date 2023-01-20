@@ -4,8 +4,8 @@ Three Peppers Gaming is a simple gaming team that likes a variety of games and g
 ## Published Games
 * Adventure House - Simple text adventure. Excape or Die! 
 * ==> Find this on the Microsoft App Store: https://www.microsoft.com/store/productId/9N01PKFTC7Z4
-* Simple BlackJack 
-** ==> Single Deck Blackjack with Retro Style Interface
+* Simple BlackJack - Single Deck Blackjack with Retro Style Interface
+* ==> https://www.microsoft.com/store/productId/9N7QJXL60JKB
 More text games coming soon:
 * BlackJack 
 * CoinPanic
