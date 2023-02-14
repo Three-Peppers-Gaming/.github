@@ -6,8 +6,10 @@ Three Peppers Gaming is a simple gaming team that likes a variety of games and g
 * ==> Find this on the Microsoft App Store: https://www.microsoft.com/store/productId/9N01PKFTC7Z4
 * Simple BlackJack - Single Deck Blackjack with Retro Style Interface
 * ==> https://www.microsoft.com/store/productId/9N7QJXL60JKB
+* Simple Hangman
+
+
 More text games coming soon:
-* BlackJack 
 * CoinPanic
 * Impossible Tic-Tac-Toe
 
