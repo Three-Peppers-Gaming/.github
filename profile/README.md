@@ -19,6 +19,7 @@ brew install --cask land-of-senia
 | Land of Senia | A casual pixel RPG: four callings, 19 bosses, a home with pets. Licensed art and music | `land-of-senia` |
 | Inside the Mainframe | A turn-based dungeon crawl through a 1970s computer center | `inside-the-mainframe` |
 | Santa Fe Trader | Run a wagon of trade goods down the Santa Fe Trail | `santa-fe-trader` |
+| Super Star Trek | A free tribute to the 1978 BASIC space game | `super-star-trek` |
 | Adventure House | A two-word text adventure. Escape or die! | `adventure-house` |
 | Blackjack | Single-deck blackjack with retro card art | `blackjack` |
 | Hangman | Hangman in the style of a 1980s bulletin board | `hangman` |

@@ -35,6 +35,14 @@ Outfit a wagon train in Missouri, cross the plains to Santa Fe, and sell before 
 
 Install: `brew install --cask santa-fe-trader` · [Play in the browser](https://stevesparks.com/arcade/santafe)
 
+## Super Star Trek
+
+<img src="https://raw.githubusercontent.com/Three-Peppers-Gaming/.github/main/profile/assets/shots/trek.jpg" width="100%" alt="Super Star Trek">
+
+A free tribute to the 1978 BASIC space game. Hunt the enemy fleet sector by sector, mind your energy and torpedoes, and dock at starbases before time runs out.
+
+Install: `brew install --cask super-star-trek` · [Play in the browser](https://stevesparks.com/arcade/trek)
+
 ## Adventure House
 
 <img src="https://raw.githubusercontent.com/Three-Peppers-Gaming/.github/main/profile/assets/shots/adventure.jpg" width="100%" alt="Adventure House">
