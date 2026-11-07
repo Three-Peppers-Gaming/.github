@@ -4,6 +4,8 @@
 
 Small, friendly games by Steve Sparks: retro text games, card games and a cozy pixel RPG. Free, family-friendly, and made with Claude Code.
 
+**Website: [threepeppersgaming.com](https://threepeppersgaming.com)**
+
 ## Mac games
 
 Signed and notarized, for Apple silicon and Intel Macs with macOS 13 or later. Install with [Homebrew](https://brew.sh):
