@@ -11,7 +11,9 @@ brew trust pounceapps/games
 
 ## Land of Senia
 
-<img src="https://raw.githubusercontent.com/Three-Peppers-Gaming/.github/main/profile/assets/shots/senia.jpg" width="100%" alt="Land of Senia">
+<img src="https://raw.githubusercontent.com/Three-Peppers-Gaming/.github/main/profile/assets/shots/senia-landing.jpg" width="100%" alt="Land of Senia: the Landing, where every hero wakes up">
+
+<img src="https://raw.githubusercontent.com/Three-Peppers-Gaming/.github/main/profile/assets/shots/senia.jpg" width="100%" alt="Land of Senia: a fight in the Outerby woods">
 
 A casual pixel RPG on a lost coast. Pick one of four callings, gather friends, fight in turns, and clear 19 bosses from the land. There's a home with pets, taverns, fishing and cards, and you can stop and pick up any time. Licensed pixel art and music. Mac only.
 
