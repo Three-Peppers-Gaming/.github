@@ -23,6 +23,8 @@ brew install --cask land-of-senia
 | Blackjack | Single-deck blackjack with retro card art | `blackjack` |
 | Hangman | Hangman in the style of a 1980s bulletin board | `hangman` |
 
+**[See the games, with screenshots →](https://github.com/Three-Peppers-Gaming/.github/blob/main/games.md)**
+
 `brew upgrade --cask` gets new versions. Most of these also play in the browser at [stevesparks.com/arcade](https://stevesparks.com/arcade).
 
 **Why PounceApps?** [PounceApps](https://github.com/pounceapps) is where all my Mac apps are built, signed and handed out. The games are Three Peppers Gaming; PounceApps is the shipping dock.
