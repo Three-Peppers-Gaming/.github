@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480">
+  <rect width="480" height="480" fill="#fffaf0"/>
+  <!-- medium: golden, behind, top middle -->
+
+  <g transform="translate(205 38) rotate(10 50 130) scale(.92)"><path d="M20 52 C8 112 24 182 70 228 C79 237 90 231 85 220 C62 176 78 112 83 54 C70 38 33 38 20 52 Z" fill="#f0b429" stroke="#9a6a0c" stroke-width="3"/><path d="M33 72 C29 120 39 165 61 200" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="7" stroke-linecap="round"/><path d="M16 55 C30 36 72 34 87 55 C73 48 31 48 16 55 Z" fill="#2c6b23"/><path d="M51 44 C49 26 57 13 72 8" fill="none" stroke="#2c6b23" stroke-width="8" stroke-linecap="round"/></g>
+  <!-- small: red, right -->
+  <g transform="translate(300 118) rotate(24 50 130) scale(.74)"><path d="M20 52 C8 112 24 182 70 228 C79 237 90 231 85 220 C62 176 78 112 83 54 C70 38 33 38 20 52 Z" fill="#d93a2f" stroke="#8c1f18" stroke-width="3.5"/><path d="M33 72 C29 120 39 165 61 200" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="7" stroke-linecap="round"/><path d="M16 55 C30 36 72 34 87 55 C73 48 31 48 16 55 Z" fill="#2c6b23"/><path d="M51 44 C49 26 57 13 72 8" fill="none" stroke="#2c6b23" stroke-width="8" stroke-linecap="round"/></g>
+  <!-- big: green, left, in front -->
+  <g transform="translate(92 62) rotate(-8 50 130) scale(1.12)"><path d="M20 52 C8 112 24 182 70 228 C79 237 90 231 85 220 C62 176 78 112 83 54 C70 38 33 38 20 52 Z" fill="#43a338" stroke="#24611f" stroke-width="3"/><path d="M33 72 C29 120 39 165 61 200" fill="none" stroke="#fff" stroke-opacity=".38" stroke-width="7" stroke-linecap="round"/><path d="M16 55 C30 36 72 34 87 55 C73 48 31 48 16 55 Z" fill="#1f4f19"/><path d="M51 44 C49 26 57 13 72 8" fill="none" stroke="#1f4f19" stroke-width="8" stroke-linecap="round"/></g>
+  <text x="240" y="400" text-anchor="middle" font-family="Avenir Next, Helvetica Neue, Arial" font-weight="800" font-size="46" fill="#2a2119" letter-spacing="1">THREE PEPPERS</text>
+  <text x="240" y="446" text-anchor="middle" font-family="Avenir Next, Helvetica Neue, Arial" font-weight="600" font-size="28" fill="#43a338" letter-spacing="14">GAMING</text>
+</svg>

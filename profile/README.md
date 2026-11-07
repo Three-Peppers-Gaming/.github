@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Three-Peppers-Gaming/.github/main/profile/assets/three-peppers.png" width="200" alt="Three Peppers Gaming"></p>
+
 ## Three Peppers Gaming
 
 Small, friendly games by Steve Sparks: retro text games, card games and a cozy pixel RPG. Free, family-friendly, and made with Claude Code.
