@@ -40,7 +40,6 @@ The original console games on the Microsoft Store:
 Older experiments and tools, on [my own GitHub](https://github.com/StevenSSparks):
 
 - [Simple Text Games](https://github.com/StevenSSparks/simple-text-games): the Microsoft Store console games
-- [CoinPanic](https://github.com/StevenSSparks/CoinPanic): collect as many coins as you can in 100 moves
 - [Adventure Server](https://github.com/StevenSSparks/AdventureServer): a text adventure framework inside a web API, with [a console client](https://github.com/StevenSSparks/PlayAdv) and [a Blazor client](https://github.com/StevenSSparks/PlayAdvBlazor)
 - [BlackJack Server](https://github.com/StevenSSparks/BlackJackServer): blackjack as a simple web API
 - [Super Star Trek](https://github.com/StevenSSparks/SuperStarTrek): the Matuszek, Reynolds and Almy classic, set up to build in Visual Studio
