@@ -17,7 +17,7 @@ brew trust pounceapps/games
 
 A casual pixel RPG on a lost coast. Pick one of four callings, gather friends, fight in turns, and clear 19 bosses from the land. There's a home with pets, taverns, fishing and cards, and you can stop and pick up any time. Licensed pixel art and music. Mac only.
 
-Install: `brew install --cask land-of-senia`
+Install: `brew install --cask land-of-senia` · [landofsenia.com](https://landofsenia.com)
 
 ## Inside the Mainframe
 
